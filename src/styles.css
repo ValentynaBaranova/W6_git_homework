@@ -53,3 +53,25 @@ li {
 .search-form {
   margin-bottom: 20px;
 }
+
+.day__block {
+  float: left;
+  padding: 7px;
+  width: 12.5%;
+}
+
+.day__block-image {
+  display: block;
+  margin: 0 auto;
+  max-height: 48px;
+  max-width: 48px;
+}
+
+.day__block-temps,
+.day__block-temps {
+  text-align: center;
+}
+
+.card {
+  border: none !important;
+}
